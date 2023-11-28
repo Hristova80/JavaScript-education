@@ -9,4 +9,3 @@ function petShop(input) {
     console.log(`${finalAmount} lv.`);
 }
 petShop(["13 ", "9 "]);
-//predadena
