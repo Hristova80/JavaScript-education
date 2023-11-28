@@ -9,4 +9,3 @@ function projectsCreation(input) {
 }
 
 projectsCreation(["Georgi" , "4"])
-//predadena
